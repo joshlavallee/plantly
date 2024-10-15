@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "plantly",
+    "name": "Plantly",
     "slug": "plantly",
     "scheme": "plantly",
     "version": "1.0.0",
@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.expolavallee.plantly"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.expolavallee.plantly"
     },
     "web": {
       "favicon": "./assets/favicon.png",
