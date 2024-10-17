@@ -17,7 +17,7 @@ export default function App() {
         contentContainerStyle={styles.contentContainer}
         data={plants}
         renderItem={({ item }) => <PlantCard plant={item} />}
-        ListEmptyComponent={() => <PlantlyButton title="Add your first plant" onPress={() => router.navigate("/")} />}
+        ListEmptyComponent={() => <PlantlyButton title="Add your first plant" onPress={() => router.navigate("/new")} />}
       />
       <StatusBar style="auto" />
     </View>
