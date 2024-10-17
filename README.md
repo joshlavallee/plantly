@@ -2,4 +2,4 @@
 
 **Course Notes:** [https://kadikraman.github.io/react-native-v3-course/](https://kadikraman.github.io/intermediate-react-native-v2-course/docs/intro/)
 
-**Certificate:** TBD
+**Certificate:** [intermediate-react-native-v2-dark.pdf](https://github.com/user-attachments/files/17415685/intermediate-react-native-v2-dark.pdf)
